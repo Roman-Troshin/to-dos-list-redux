@@ -1,0 +1,3 @@
+export const CHANGE_IS_SORT_CHECKED = {
+	type: 'CHANGE_CHECKBOX_VALUE',
+};
